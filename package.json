@@ -2,9 +2,9 @@
   "name": "lab3",
   "version": "1.0.0",
   "description": "",
-  "main": "sсhedule.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node sсhedule"
+    "start": "node index"
   },
   "keywords": [],
   "author": "",
